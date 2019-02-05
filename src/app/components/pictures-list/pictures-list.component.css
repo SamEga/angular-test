@@ -1,0 +1,4 @@
+.pictures-wrapp {
+  display: flex;
+  flex-wrap: wrap;
+}
